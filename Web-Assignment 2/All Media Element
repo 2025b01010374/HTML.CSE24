@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hyperlink</title>
+    </head>
+    <body>
+        <!-- Text hyperlink -->
+        <h1>Hyperlink</h1>
+        <p>Visit <a href="https://www.youtube.com/" target="_blank">Go to YouTube </a></p>
+
+        <!--Image hyperlink-->
+        <img src="Shree Krishna.jpg" alt="Madagascar" width="300" height="250">
+       
+         <video width="320" height="240" controls>
+          <source src="Shree Krishna.mp4" type="video/mp4">
+         </video>
+       
+        <audio controls>
+          <source src="Shri Krishna Flute-Downringtone.com.mp3" type="audio/mpeg">
+          </audio>
+    </body>
+</html>
