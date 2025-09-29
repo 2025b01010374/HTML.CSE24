@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Semantic and Non-Semantic</title>
+    </head>
+    <body>
+        <!-- Semantic Element -->
+        <header>
+            <h1>Semantic and Non-Semantic Tags</h1>
+        </header>
+
+        <section>
+            <p> This is Semantic.</p> 
+        </section>
+
+        <!--Non-Semantic Elements-->
+        <div>
+            <p>This is non-semantic using <code>&lt;div&gt;</code>.</p>
+        </div>
+
+       <span> This is also non-semantic inline element.</span> 
+
+       <footer>
+        <p>Created by Ritu Rai</p>
+       </footer>
+    </body>   
+</html>

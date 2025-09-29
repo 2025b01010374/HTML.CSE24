@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <
+    <!--<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut doloribus ab praesentium eligendi dolore quaerat ducimus magnam commodi quam provident, voluptatem accusantium maxime ullam totam, in blanditiis fugit omnis iste.</p>
+    <span>Hello</span>
+    <span>world</span>
+    <font size="+2" color="#FF0000"> Hello World</font>
+    <p><i>HTML <u>CSE24</u></i></p>
+    <em>hello</em>
+    <strong>world</strong>
+    <big>HTML</big>
+    <p>H<sub>2</sub>O</p>
+    <p>x<sup>2</sup></p>
+    <P><mark>Hello</mark></P>-->
+
+    <h2>ENTITIES</h2>
+    <p><b>Bold text (using &lt;b&gt;)</b></p
+    <p><strong>Important Text (using &lt;strong&gt;)</strong></p>
+    <p><i>Italic text (&lt;i&gt;)</i></p>
+    <p><em>Emphasized test (&lt;em&gt;)</em></p>
+    <p><u>Underlined text (&lt;u&gt;)</u></p>
+    <p><mark>Highlighted Text(&lt;mark&gt;)</mark></p>
+    <p><small>Small text (&lt;small&gt;)</small></p>
+    <p>H<sub>2</sub>?Subscipt example </p>
+    <p>X<sup>2</sup>?</p>
+    <p><strike>Deleted text (using &lt;strike&gt;)</strike></p>
+    <P><ins>Inserted text</ins>(using &lt;ins&gt;)</P>
+    <p><code>Inline code(using&lt;code&gt;)</code></p>
+    <P><kbd>Keyboard (using&lt;kbd&gt;)</kbd></P>
+    <P><PRE>fORMATED TEXT(using&lt;pre&gt;)</PRE></P>
+
+<h2>Special Characters & Entities</h2>
+
+<p>Less than: &lt;</p>    
+<p>Greater than: &gt;</p>
+<p>Ampersand:&amp;</p>
+<p>Double Quote: &quot;</p>
+<p>Euro:&euro;50</p>
+<p>Indian Rupees:&#8377;999</p>
+
+</body>
+</html>    
