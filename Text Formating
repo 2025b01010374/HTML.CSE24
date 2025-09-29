@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-   <
+   
     <!--<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut doloribus ab praesentium eligendi dolore quaerat ducimus magnam commodi quam provident, voluptatem accusantium maxime ullam totam, in blanditiis fugit omnis iste.</p>
     <span>Hello</span>
     <span>world</span>
@@ -20,7 +20,7 @@
     <P><mark>Hello</mark></P>-->
 
     <h2>ENTITIES</h2>
-    <p><b>Bold text (using &lt;b&gt;)</b></p
+    <p><b>Bold text (using &lt;b&gt;)</b></p>
     <p><strong>Important Text (using &lt;strong&gt;)</strong></p>
     <p><i>Italic text (&lt;i&gt;)</i></p>
     <p><em>Emphasized test (&lt;em&gt;)</em></p>
