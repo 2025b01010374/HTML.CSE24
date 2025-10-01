@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Tables</title>
+</head>
+<body>
+  <table border="1">
+    <caption>BioData</caption>
+  
+   <thead> 
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Age</th>
+    </tr>
+    </thead>
+   
+    <tbody>
+    <tr>
+        <td>Ridah</td>
+        <td>Abbasi</td>
+        <td>85</td>
+    </tr>
+
+
+
+    <tr>
+        <td>abc</td>
+        <td>Xyz</td>
+        <td>24</td>
+    </tr>
+
+    <tr>
+        <td>fgh</td>
+        <td>jkl</td>
+        <td>29</td>
+    </tr>
+    </tbody>
+    </table>
+
+    <table border="1">
+        <caption>Employee Record</caption>
+       <tbody>
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>Ali</td>
+            <td>Karachi</td>
+            <td>37</td>
+        </tr>
+        <tr>
+            <td>Ahmed</td>
+            <td>Lahore</td>
+            <td>30</td>
+        </tr>
+        <tr>    
+            <td>Ahsan</td>
+            <td>Islamabad</td>
+            <td>28</td>  
+        </tr>
+        </tbody>     
+    </table>
+<table border="1">
+    <caption>Cell span two colums</caption>
+    <thead>
+        <tr>
+            <th colspan="2">Name</th>
+            <th>Age</th>
+        </tr>
+        </thead>
+        
+    <tbody>
+        <tr>
+            <td>Ali</td>
+            <td>Ahmed</td>
+            <td>37</td>
+        </tr>
+        <tr>
+            <td>Ahsan</td>
+            <td>Asim</td>
+            <td>30</td>
+        </tr>  
+    </tbody>
+</table>
+
+<table border="1" cellpadding="5px" cellspacing="5px">
+    <caption>Data</caption>
+    <tr>
+        <th>Name</th>
+        <td>sam</td>
+    </tr>
+    <tr>
+        <th rowspan="2">Phone</th>
+        <td>7895252855</td>
+        <tr><td>4563278554</td></tr>   
+    </tr>
+    </table>
+
+    
+
+    <!--NESTED TABLES-->
+    <h1>Nested Tables</h1>
+    <table border="2">
+        <tr><td>A</td>
+            <td>B</td>
+    
+        </tr>
+              <td>
+                <table border="2">
+                    <tr><td>Inner table row 1 column 1</td></tr>
+                   <tr> <td>Inner table row 2 column 2</td>
+                    </tr>
+                </table>
+                </td>
+            <td>
+                <table border="2">
+               <tr><td>Outer table row 1 column 2</td></tr>
+                <tr><td>Outer table row 1 column 3</td></tr>
+    
+</table>
+            </td>    
+        
+            
+</body>
+</html>
